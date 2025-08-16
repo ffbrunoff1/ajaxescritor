@@ -1,6 +1,6 @@
 import React from 'react'
 import { motion } from 'framer-motion'
-import { BookOpen, Award, Users, Target, Pen, Globe, Heart } from 'lucide-react'
+import { BookOpen, Award, Users, Target, Pen, Globe, Heart, Feather } from 'lucide-react'
 
 export default function About() {
   const stats = [
